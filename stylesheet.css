@@ -1,0 +1,19 @@
+body {
+background-color: rgb(126, 126, 79);
+
+}
+
+#frm {
+border: chartreuse;
+width: 20%;
+border-radius: 5px;
+margin: 100% auto;
+background: rgb(132, 194, 135);
+padding: 50px;
+}
+#btn{
+color: rgb(28, 21, 77);
+background: rgb(226, 226, 252);
+padding: 5px;
+margin-left: 70%;
+}
